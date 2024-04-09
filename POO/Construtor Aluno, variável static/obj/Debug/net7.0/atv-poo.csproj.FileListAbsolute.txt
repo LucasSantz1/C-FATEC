@@ -1,0 +1,14 @@
+C:\Users\Lucas\Desktop\atv-poo\obj\Debug\net7.0\atv-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\atv-poo\obj\Debug\net7.0\atv-poo.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\atv-poo\obj\Debug\net7.0\atv-poo.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\atv-poo\obj\Debug\net7.0\atv-poo.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\atv-poo\bin\Debug\net7.0\atv-poo.exe
+C:\Users\Lucas\Desktop\atv-poo\bin\Debug\net7.0\atv-poo.deps.json
+C:\Users\Lucas\Desktop\atv-poo\bin\Debug\net7.0\atv-poo.runtimeconfig.json
+C:\Users\Lucas\Desktop\atv-poo\bin\Debug\net7.0\atv-poo.dll
+C:\Users\Lucas\Desktop\atv-poo\bin\Debug\net7.0\atv-poo.pdb
+C:\Users\Lucas\Desktop\atv-poo\obj\Debug\net7.0\atv-poo.dll
+C:\Users\Lucas\Desktop\atv-poo\obj\Debug\net7.0\refint\atv-poo.dll
+C:\Users\Lucas\Desktop\atv-poo\obj\Debug\net7.0\atv-poo.pdb
+C:\Users\Lucas\Desktop\atv-poo\obj\Debug\net7.0\atv-poo.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\atv-poo\obj\Debug\net7.0\ref\atv-poo.dll
