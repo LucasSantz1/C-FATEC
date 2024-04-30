@@ -1,0 +1,14 @@
+C:\Users\cmcas\Documents\POO\POO\ArrayProduto\bin\Debug\net7.0\ArrayProduto.exe
+C:\Users\cmcas\Documents\POO\POO\ArrayProduto\bin\Debug\net7.0\ArrayProduto.deps.json
+C:\Users\cmcas\Documents\POO\POO\ArrayProduto\bin\Debug\net7.0\ArrayProduto.runtimeconfig.json
+C:\Users\cmcas\Documents\POO\POO\ArrayProduto\bin\Debug\net7.0\ArrayProduto.dll
+C:\Users\cmcas\Documents\POO\POO\ArrayProduto\bin\Debug\net7.0\ArrayProduto.pdb
+C:\Users\cmcas\Documents\POO\POO\ArrayProduto\obj\Debug\net7.0\ArrayProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmcas\Documents\POO\POO\ArrayProduto\obj\Debug\net7.0\ArrayProduto.AssemblyInfoInputs.cache
+C:\Users\cmcas\Documents\POO\POO\ArrayProduto\obj\Debug\net7.0\ArrayProduto.AssemblyInfo.cs
+C:\Users\cmcas\Documents\POO\POO\ArrayProduto\obj\Debug\net7.0\ArrayProduto.csproj.CoreCompileInputs.cache
+C:\Users\cmcas\Documents\POO\POO\ArrayProduto\obj\Debug\net7.0\ArrayProduto.dll
+C:\Users\cmcas\Documents\POO\POO\ArrayProduto\obj\Debug\net7.0\refint\ArrayProduto.dll
+C:\Users\cmcas\Documents\POO\POO\ArrayProduto\obj\Debug\net7.0\ArrayProduto.pdb
+C:\Users\cmcas\Documents\POO\POO\ArrayProduto\obj\Debug\net7.0\ArrayProduto.genruntimeconfig.cache
+C:\Users\cmcas\Documents\POO\POO\ArrayProduto\obj\Debug\net7.0\ref\ArrayProduto.dll

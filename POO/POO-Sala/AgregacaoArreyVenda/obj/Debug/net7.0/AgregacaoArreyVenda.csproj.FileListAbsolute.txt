@@ -1,0 +1,14 @@
+C:\Users\cmcas\Documents\POO\POO\AgregacaoArreyVenda\obj\Debug\net7.0\AgregacaoArreyVenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmcas\Documents\POO\POO\AgregacaoArreyVenda\obj\Debug\net7.0\AgregacaoArreyVenda.AssemblyInfoInputs.cache
+C:\Users\cmcas\Documents\POO\POO\AgregacaoArreyVenda\obj\Debug\net7.0\AgregacaoArreyVenda.AssemblyInfo.cs
+C:\Users\cmcas\Documents\POO\POO\AgregacaoArreyVenda\obj\Debug\net7.0\AgregacaoArreyVenda.csproj.CoreCompileInputs.cache
+C:\Users\cmcas\Documents\POO\POO\AgregacaoArreyVenda\bin\Debug\net7.0\AgregacaoArreyVenda.exe
+C:\Users\cmcas\Documents\POO\POO\AgregacaoArreyVenda\bin\Debug\net7.0\AgregacaoArreyVenda.deps.json
+C:\Users\cmcas\Documents\POO\POO\AgregacaoArreyVenda\bin\Debug\net7.0\AgregacaoArreyVenda.runtimeconfig.json
+C:\Users\cmcas\Documents\POO\POO\AgregacaoArreyVenda\bin\Debug\net7.0\AgregacaoArreyVenda.dll
+C:\Users\cmcas\Documents\POO\POO\AgregacaoArreyVenda\bin\Debug\net7.0\AgregacaoArreyVenda.pdb
+C:\Users\cmcas\Documents\POO\POO\AgregacaoArreyVenda\obj\Debug\net7.0\AgregacaoArreyVenda.dll
+C:\Users\cmcas\Documents\POO\POO\AgregacaoArreyVenda\obj\Debug\net7.0\refint\AgregacaoArreyVenda.dll
+C:\Users\cmcas\Documents\POO\POO\AgregacaoArreyVenda\obj\Debug\net7.0\AgregacaoArreyVenda.pdb
+C:\Users\cmcas\Documents\POO\POO\AgregacaoArreyVenda\obj\Debug\net7.0\AgregacaoArreyVenda.genruntimeconfig.cache
+C:\Users\cmcas\Documents\POO\POO\AgregacaoArreyVenda\obj\Debug\net7.0\ref\AgregacaoArreyVenda.dll

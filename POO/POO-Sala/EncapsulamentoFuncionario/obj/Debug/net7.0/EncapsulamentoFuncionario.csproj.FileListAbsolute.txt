@@ -1,0 +1,14 @@
+C:\Users\cmcas\Documents\POO\POO\EncapsulamentoFuncionario\obj\Debug\net7.0\EncapsulamentoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmcas\Documents\POO\POO\EncapsulamentoFuncionario\obj\Debug\net7.0\EncapsulamentoFuncionario.AssemblyInfoInputs.cache
+C:\Users\cmcas\Documents\POO\POO\EncapsulamentoFuncionario\obj\Debug\net7.0\EncapsulamentoFuncionario.AssemblyInfo.cs
+C:\Users\cmcas\Documents\POO\POO\EncapsulamentoFuncionario\obj\Debug\net7.0\EncapsulamentoFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\cmcas\Documents\POO\POO\EncapsulamentoFuncionario\bin\Debug\net7.0\EncapsulamentoFuncionario.exe
+C:\Users\cmcas\Documents\POO\POO\EncapsulamentoFuncionario\bin\Debug\net7.0\EncapsulamentoFuncionario.deps.json
+C:\Users\cmcas\Documents\POO\POO\EncapsulamentoFuncionario\bin\Debug\net7.0\EncapsulamentoFuncionario.runtimeconfig.json
+C:\Users\cmcas\Documents\POO\POO\EncapsulamentoFuncionario\bin\Debug\net7.0\EncapsulamentoFuncionario.dll
+C:\Users\cmcas\Documents\POO\POO\EncapsulamentoFuncionario\bin\Debug\net7.0\EncapsulamentoFuncionario.pdb
+C:\Users\cmcas\Documents\POO\POO\EncapsulamentoFuncionario\obj\Debug\net7.0\EncapsulamentoFuncionario.dll
+C:\Users\cmcas\Documents\POO\POO\EncapsulamentoFuncionario\obj\Debug\net7.0\refint\EncapsulamentoFuncionario.dll
+C:\Users\cmcas\Documents\POO\POO\EncapsulamentoFuncionario\obj\Debug\net7.0\EncapsulamentoFuncionario.pdb
+C:\Users\cmcas\Documents\POO\POO\EncapsulamentoFuncionario\obj\Debug\net7.0\EncapsulamentoFuncionario.genruntimeconfig.cache
+C:\Users\cmcas\Documents\POO\POO\EncapsulamentoFuncionario\obj\Debug\net7.0\ref\EncapsulamentoFuncionario.dll

@@ -1,0 +1,14 @@
+C:\Users\cmcas\Documents\POO\POO\AgregacaoArrayConta\obj\Debug\net7.0\AgregacaoArrayConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmcas\Documents\POO\POO\AgregacaoArrayConta\obj\Debug\net7.0\AgregacaoArrayConta.AssemblyInfoInputs.cache
+C:\Users\cmcas\Documents\POO\POO\AgregacaoArrayConta\obj\Debug\net7.0\AgregacaoArrayConta.AssemblyInfo.cs
+C:\Users\cmcas\Documents\POO\POO\AgregacaoArrayConta\obj\Debug\net7.0\AgregacaoArrayConta.csproj.CoreCompileInputs.cache
+C:\Users\cmcas\Documents\POO\POO\AgregacaoArrayConta\bin\Debug\net7.0\AgregacaoArrayConta.exe
+C:\Users\cmcas\Documents\POO\POO\AgregacaoArrayConta\bin\Debug\net7.0\AgregacaoArrayConta.deps.json
+C:\Users\cmcas\Documents\POO\POO\AgregacaoArrayConta\bin\Debug\net7.0\AgregacaoArrayConta.runtimeconfig.json
+C:\Users\cmcas\Documents\POO\POO\AgregacaoArrayConta\bin\Debug\net7.0\AgregacaoArrayConta.dll
+C:\Users\cmcas\Documents\POO\POO\AgregacaoArrayConta\bin\Debug\net7.0\AgregacaoArrayConta.pdb
+C:\Users\cmcas\Documents\POO\POO\AgregacaoArrayConta\obj\Debug\net7.0\AgregacaoArrayConta.dll
+C:\Users\cmcas\Documents\POO\POO\AgregacaoArrayConta\obj\Debug\net7.0\refint\AgregacaoArrayConta.dll
+C:\Users\cmcas\Documents\POO\POO\AgregacaoArrayConta\obj\Debug\net7.0\AgregacaoArrayConta.pdb
+C:\Users\cmcas\Documents\POO\POO\AgregacaoArrayConta\obj\Debug\net7.0\AgregacaoArrayConta.genruntimeconfig.cache
+C:\Users\cmcas\Documents\POO\POO\AgregacaoArrayConta\obj\Debug\net7.0\ref\AgregacaoArrayConta.dll

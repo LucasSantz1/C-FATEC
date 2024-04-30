@@ -1,0 +1,14 @@
+C:\Users\cmcas\Documents\POO\POO\ClasseConta\obj\Debug\net7.0\ClasseConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmcas\Documents\POO\POO\ClasseConta\obj\Debug\net7.0\ClasseConta.AssemblyInfoInputs.cache
+C:\Users\cmcas\Documents\POO\POO\ClasseConta\obj\Debug\net7.0\ClasseConta.AssemblyInfo.cs
+C:\Users\cmcas\Documents\POO\POO\ClasseConta\obj\Debug\net7.0\ClasseConta.csproj.CoreCompileInputs.cache
+C:\Users\cmcas\Documents\POO\POO\ClasseConta\bin\Debug\net7.0\ClasseConta.exe
+C:\Users\cmcas\Documents\POO\POO\ClasseConta\bin\Debug\net7.0\ClasseConta.deps.json
+C:\Users\cmcas\Documents\POO\POO\ClasseConta\bin\Debug\net7.0\ClasseConta.runtimeconfig.json
+C:\Users\cmcas\Documents\POO\POO\ClasseConta\bin\Debug\net7.0\ClasseConta.dll
+C:\Users\cmcas\Documents\POO\POO\ClasseConta\bin\Debug\net7.0\ClasseConta.pdb
+C:\Users\cmcas\Documents\POO\POO\ClasseConta\obj\Debug\net7.0\ClasseConta.dll
+C:\Users\cmcas\Documents\POO\POO\ClasseConta\obj\Debug\net7.0\refint\ClasseConta.dll
+C:\Users\cmcas\Documents\POO\POO\ClasseConta\obj\Debug\net7.0\ClasseConta.pdb
+C:\Users\cmcas\Documents\POO\POO\ClasseConta\obj\Debug\net7.0\ClasseConta.genruntimeconfig.cache
+C:\Users\cmcas\Documents\POO\POO\ClasseConta\obj\Debug\net7.0\ref\ClasseConta.dll

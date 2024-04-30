@@ -1,0 +1,14 @@
+C:\Users\cmcas\Documents\POO\POO\ClasseProduto\obj\Debug\net7.0\ClasseProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmcas\Documents\POO\POO\ClasseProduto\obj\Debug\net7.0\ClasseProduto.AssemblyInfoInputs.cache
+C:\Users\cmcas\Documents\POO\POO\ClasseProduto\obj\Debug\net7.0\ClasseProduto.AssemblyInfo.cs
+C:\Users\cmcas\Documents\POO\POO\ClasseProduto\obj\Debug\net7.0\ClasseProduto.csproj.CoreCompileInputs.cache
+C:\Users\cmcas\Documents\POO\POO\ClasseProduto\bin\Debug\net7.0\ClasseProduto.exe
+C:\Users\cmcas\Documents\POO\POO\ClasseProduto\bin\Debug\net7.0\ClasseProduto.deps.json
+C:\Users\cmcas\Documents\POO\POO\ClasseProduto\bin\Debug\net7.0\ClasseProduto.runtimeconfig.json
+C:\Users\cmcas\Documents\POO\POO\ClasseProduto\bin\Debug\net7.0\ClasseProduto.dll
+C:\Users\cmcas\Documents\POO\POO\ClasseProduto\bin\Debug\net7.0\ClasseProduto.pdb
+C:\Users\cmcas\Documents\POO\POO\ClasseProduto\obj\Debug\net7.0\ClasseProduto.dll
+C:\Users\cmcas\Documents\POO\POO\ClasseProduto\obj\Debug\net7.0\refint\ClasseProduto.dll
+C:\Users\cmcas\Documents\POO\POO\ClasseProduto\obj\Debug\net7.0\ClasseProduto.pdb
+C:\Users\cmcas\Documents\POO\POO\ClasseProduto\obj\Debug\net7.0\ClasseProduto.genruntimeconfig.cache
+C:\Users\cmcas\Documents\POO\POO\ClasseProduto\obj\Debug\net7.0\ref\ClasseProduto.dll

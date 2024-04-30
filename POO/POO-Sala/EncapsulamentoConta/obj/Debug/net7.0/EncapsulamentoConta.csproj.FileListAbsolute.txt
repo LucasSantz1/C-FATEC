@@ -1,0 +1,14 @@
+C:\Users\cmcas\Documents\POO\POO\EncapsulamentoConta\obj\Debug\net7.0\EncapsulamentoConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmcas\Documents\POO\POO\EncapsulamentoConta\obj\Debug\net7.0\EncapsulamentoConta.AssemblyInfoInputs.cache
+C:\Users\cmcas\Documents\POO\POO\EncapsulamentoConta\obj\Debug\net7.0\EncapsulamentoConta.AssemblyInfo.cs
+C:\Users\cmcas\Documents\POO\POO\EncapsulamentoConta\obj\Debug\net7.0\EncapsulamentoConta.csproj.CoreCompileInputs.cache
+C:\Users\cmcas\Documents\POO\POO\EncapsulamentoConta\bin\Debug\net7.0\EncapsulamentoConta.exe
+C:\Users\cmcas\Documents\POO\POO\EncapsulamentoConta\bin\Debug\net7.0\EncapsulamentoConta.deps.json
+C:\Users\cmcas\Documents\POO\POO\EncapsulamentoConta\bin\Debug\net7.0\EncapsulamentoConta.runtimeconfig.json
+C:\Users\cmcas\Documents\POO\POO\EncapsulamentoConta\bin\Debug\net7.0\EncapsulamentoConta.dll
+C:\Users\cmcas\Documents\POO\POO\EncapsulamentoConta\bin\Debug\net7.0\EncapsulamentoConta.pdb
+C:\Users\cmcas\Documents\POO\POO\EncapsulamentoConta\obj\Debug\net7.0\EncapsulamentoConta.dll
+C:\Users\cmcas\Documents\POO\POO\EncapsulamentoConta\obj\Debug\net7.0\refint\EncapsulamentoConta.dll
+C:\Users\cmcas\Documents\POO\POO\EncapsulamentoConta\obj\Debug\net7.0\EncapsulamentoConta.pdb
+C:\Users\cmcas\Documents\POO\POO\EncapsulamentoConta\obj\Debug\net7.0\EncapsulamentoConta.genruntimeconfig.cache
+C:\Users\cmcas\Documents\POO\POO\EncapsulamentoConta\obj\Debug\net7.0\ref\EncapsulamentoConta.dll

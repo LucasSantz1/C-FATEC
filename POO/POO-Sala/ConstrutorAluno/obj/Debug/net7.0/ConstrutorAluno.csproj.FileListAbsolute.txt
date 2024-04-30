@@ -1,0 +1,14 @@
+C:\Users\cmcas\Documents\POO\POO\ConstrutorAluno\obj\Debug\net7.0\ConstrutorAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmcas\Documents\POO\POO\ConstrutorAluno\obj\Debug\net7.0\ConstrutorAluno.AssemblyInfoInputs.cache
+C:\Users\cmcas\Documents\POO\POO\ConstrutorAluno\obj\Debug\net7.0\ConstrutorAluno.AssemblyInfo.cs
+C:\Users\cmcas\Documents\POO\POO\ConstrutorAluno\obj\Debug\net7.0\ConstrutorAluno.csproj.CoreCompileInputs.cache
+C:\Users\cmcas\Documents\POO\POO\ConstrutorAluno\bin\Debug\net7.0\ConstrutorAluno.exe
+C:\Users\cmcas\Documents\POO\POO\ConstrutorAluno\bin\Debug\net7.0\ConstrutorAluno.deps.json
+C:\Users\cmcas\Documents\POO\POO\ConstrutorAluno\bin\Debug\net7.0\ConstrutorAluno.runtimeconfig.json
+C:\Users\cmcas\Documents\POO\POO\ConstrutorAluno\bin\Debug\net7.0\ConstrutorAluno.dll
+C:\Users\cmcas\Documents\POO\POO\ConstrutorAluno\bin\Debug\net7.0\ConstrutorAluno.pdb
+C:\Users\cmcas\Documents\POO\POO\ConstrutorAluno\obj\Debug\net7.0\ConstrutorAluno.dll
+C:\Users\cmcas\Documents\POO\POO\ConstrutorAluno\obj\Debug\net7.0\refint\ConstrutorAluno.dll
+C:\Users\cmcas\Documents\POO\POO\ConstrutorAluno\obj\Debug\net7.0\ConstrutorAluno.pdb
+C:\Users\cmcas\Documents\POO\POO\ConstrutorAluno\obj\Debug\net7.0\ConstrutorAluno.genruntimeconfig.cache
+C:\Users\cmcas\Documents\POO\POO\ConstrutorAluno\obj\Debug\net7.0\ref\ConstrutorAluno.dll
